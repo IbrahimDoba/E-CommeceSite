@@ -1,6 +1,5 @@
 import { ArrowLeftOutlined, ArrowRightOutlined } from "@mui/icons-material";
 import React, { useState } from "react";
-import shoes from "../../Images/shoes.jpg";
 import {
   SliderContainer,
   Arrow,
