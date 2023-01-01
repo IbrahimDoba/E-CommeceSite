@@ -5,7 +5,6 @@ import Footer from '../components/Footer/Footer'
 import Navbar from '../components/Navbar/Navbar'
 import Newsletter from '../components/Newsletter/Newsletter'
 import Prodects from '../components/Products/Prodects'
-import SingleProducts from '../components/Products/SingleProduct'
 import Silder from '../components/Slider/Silder'
 
 const Homepage = () => {

@@ -4,7 +4,6 @@ import {
   Facebook,
   Instagram,
   LinkedIn,
-  Mail,
   MailOutline,
   Payments,
   Phone,
@@ -14,7 +13,6 @@ import {
 } from "@mui/icons-material";
 import React from "react";
 import styled from "styled-components";
-import paymenticon from "../../Images/Payment-Icons-1.jpg";
 import { mobile } from "../responsive";
 import { Link } from "react-router-dom";
 

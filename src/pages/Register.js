@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import Navbar from "../components/Navbar/Navbar";
 import { mobile } from "../components/responsive";
-import bgimg from "../Images/bgimg.jpg";
 
 const MainContanier = styled.div`
 
